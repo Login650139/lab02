@@ -1,4 +1,4 @@
-// This program asks for the username and greets the user
+// Эта программа запрашивает имя пользователя и приветствует его
 #include <iostream>
 #include <string>
 
